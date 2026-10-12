@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_vehicleshop'
 description 'Vehicle shop system for Aicore'
-repository 'https://github.com/0error-scripts/aicore_vehicleshop'
+repository 'https://github.com/aicore-fivem/aicore_vehicleshop'
 version '1.0.0'
 
 ox_lib 'locale'

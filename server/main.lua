@@ -1,4 +1,4 @@
-lib.versionCheck('0error-scripts/aicore_vehicleshop')
+lib.versionCheck('aicore-fivem/aicore_vehicleshop')
 assert(lib.checkDependency('aicore', '1.17.2'), 'aicore v1.17.2 or higher is required')
 assert(lib.checkDependency('aicore_vehicles', '1.4.1'), 'aicore_vehicles v1.4.1 or higher is required')
 
